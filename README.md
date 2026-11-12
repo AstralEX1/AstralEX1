@@ -6,13 +6,13 @@
 <h3><a href="https://github.com/AstralEX1/megastera">🪐 Megastera</a></h3>
 Live space tycoon on Base: every Megapot ticket becomes a Planet that mines, upgrades and climbs the leaderboard.
 <p><a href="https://megastera.vercel.app">Play</a> · <a href="https://github.com/AstralEX1/megastera">Code</a></p>
-<p align="right"><sub>🥇 <a href="https://x.com/megapot/status/2092721588269396189">1st place, Megapot Track · Inco × Megapot Game Jam</a></sub></p>
+<p align="right"><sub>🥇 <a href="https://x.com/megapot/status/2092721588269396189">1st place · Megapot Game Jam</a></sub></p>
 </td>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/AstralEX1/opinion_trade_bot">📈 BidAsk Bot</a></h3>
 Telegram bot for trading Opinion prediction markets: floating limit orders, order and price alerts.
 <p><a href="https://t.me/Bid_AskBot">Open bot</a> · <a href="https://github.com/AstralEX1/opinion_trade_bot">Code</a></p>
-<p align="right"><sub>🏆 <a href="https://x.com/BidAsk_bot/status/2021481426999538115">Grant, Opinion Builders Program · Phase 2</a></sub></p>
+<p align="right"><sub>🏆 <a href="https://x.com/BidAsk_bot/status/2021481426999538115">Grant · Opinion Builders Program</a></sub></p>
 </td>
 </tr>
 <tr>
