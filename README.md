@@ -1,6 +1,6 @@
 <div align="center">
 
-## 🏆 Hackathon wins
+## Hackathon wins
 
 <table>
 <tr>
